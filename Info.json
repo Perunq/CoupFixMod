@@ -1,0 +1,10 @@
+﻿{
+  "Id": "CoupFix",
+  "DisplayName": "My First Mod",
+  "Author": "Perunq",
+  "Version":  2.0.0
+  "ManagerVersion": "0.21.3",
+  "Requirements": [],
+  "AssemblyName": "MyFirstMod.dll",
+  "EntryMethod": "CoupFix.Main.Load"
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoupFix", "CoupFix.csproj", "{CFE1E888-525B-4333-96B7-4741994B3EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE1E888-525B-4333-96B7-4741994B3EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE1E888-525B-4333-96B7-4741994B3EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE1E888-525B-4333-96B7-4741994B3EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE1E888-525B-4333-96B7-4741994B3EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39ACE230-30E3-4C8C-A471-296CE0917B06}
+	EndGlobalSection
+EndGlobal
